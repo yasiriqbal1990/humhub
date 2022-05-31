@@ -1,0 +1,1374 @@
+2022-05-31 19:33:16 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:16 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:16 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:16 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:16 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:16 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:15 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=3f2rf7rclpsatcu0jb2rclrkfq'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51860'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654018395.1721
+    'REQUEST_TIME' => 1654018395
+]
+2022-05-31 19:33:16 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' 
+
+in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-05-31 19:33:15 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=3f2rf7rclpsatcu0jb2rclrkfq'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51860'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654018395.1721
+    'REQUEST_TIME' => 1654018395
+]
+2022-05-31 19:33:19 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:19 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:19 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:19 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:19 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:19 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:19 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51881'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654018399.0286
+    'REQUEST_TIME' => 1654018399
+]
+2022-05-31 19:33:19 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' 
+
+in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-05-31 19:33:19 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51881'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654018399.0286
+    'REQUEST_TIME' => 1654018399
+]
+2022-05-31 19:33:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:21 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/setup/prerequisites'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=3f2rf7rclpsatcu0jb2rclrkfq; _csrf=688ff50fe146a7de2057f021daf9d7cd4272e4bee4e2012c9e60051db2e6ea2ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22EXedbZ_SLJEYMAq7Dl9LTRF-QdR2FLr3%22%3B%7D'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51892'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Fsetup%2Fprerequisites'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654018401.175
+    'REQUEST_TIME' => 1654018401
+]
+2022-05-31 19:33:22 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' 
+
+in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-05-31 19:33:21 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/setup/prerequisites'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=3f2rf7rclpsatcu0jb2rclrkfq; _csrf=688ff50fe146a7de2057f021daf9d7cd4272e4bee4e2012c9e60051db2e6ea2ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22EXedbZ_SLJEYMAq7Dl9LTRF-QdR2FLr3%22%3B%7D'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51892'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Fsetup%2Fprerequisites'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654018401.175
+    'REQUEST_TIME' => 1654018401
+]
+2022-05-31 19:33:24 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:24 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:24 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:24 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:24 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:24 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:33:23 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51912'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654018403.7631
+    'REQUEST_TIME' => 1654018403
+]
+2022-05-31 19:33:24 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' 
+
+in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-05-31 19:33:23 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51912'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654018403.7631
+    'REQUEST_TIME' => 1654018403
+]
+2022-05-31 19:51:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:22 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:22 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_DNT' => '1'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=3f2rf7rclpsatcu0jb2rclrkfq; _csrf=688ff50fe146a7de2057f021daf9d7cd4272e4bee4e2012c9e60051db2e6ea2ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22EXedbZ_SLJEYMAq7Dl9LTRF-QdR2FLr3%22%3B%7D'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51223'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654019482.101
+    'REQUEST_TIME' => 1654019482
+]
+2022-05-31 19:51:23 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' 
+
+in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-05-31 19:51:22 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_DNT' => '1'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=3f2rf7rclpsatcu0jb2rclrkfq; _csrf=688ff50fe146a7de2057f021daf9d7cd4272e4bee4e2012c9e60051db2e6ea2ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22EXedbZ_SLJEYMAq7Dl9LTRF-QdR2FLr3%22%3B%7D'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51223'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654019482.101
+    'REQUEST_TIME' => 1654019482
+]
+2022-05-31 19:51:26 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:26 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:26 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:26 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:26 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:26 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:26 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51246'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654019486.1411
+    'REQUEST_TIME' => 1654019486
+]
+2022-05-31 19:51:26 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' 
+
+in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-05-31 19:51:26 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51246'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654019486.1411
+    'REQUEST_TIME' => 1654019486
+]
+2022-05-31 19:51:30 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:30 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:30 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:30 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:30 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:30 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:30 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/setup/prerequisites'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=3f2rf7rclpsatcu0jb2rclrkfq; _csrf=688ff50fe146a7de2057f021daf9d7cd4272e4bee4e2012c9e60051db2e6ea2ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22EXedbZ_SLJEYMAq7Dl9LTRF-QdR2FLr3%22%3B%7D'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51257'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Fsetup%2Fprerequisites'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654019490.0289
+    'REQUEST_TIME' => 1654019490
+]
+2022-05-31 19:51:30 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' 
+
+in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-05-31 19:51:30 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/setup/prerequisites'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=3f2rf7rclpsatcu0jb2rclrkfq; _csrf=688ff50fe146a7de2057f021daf9d7cd4272e4bee4e2012c9e60051db2e6ea2ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22EXedbZ_SLJEYMAq7Dl9LTRF-QdR2FLr3%22%3B%7D'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51257'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Fsetup%2Fprerequisites'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654019490.0289
+    'REQUEST_TIME' => 1654019490
+]
+2022-05-31 19:51:32 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:134
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:32 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:135
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:32 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:136
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:32 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:139
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:32 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:140
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:32 [::1][-][-][error][application] Could not resize site icon: Your system does not support any of these drivers: gmagick,imagick,gd2
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:80
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\web\pwa\widgets\SiteIcon.php:141
+    in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\ui\view\components\View.php:316
+2022-05-31 19:51:32 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51275'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654019492.3249
+    'REQUEST_TIME' => 1654019492
+]
+2022-05-31 19:51:32 [::1][-][-][warning][yii\log\Dispatcher::dispatch] Unable to send log via yii\log\DbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' 
+
+in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php:647
+
+Stack trace:
+#0 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1066): yii\db\Connection->open()
+#1 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(1053): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Schema.php(461): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Connection.php(945): yii\db\Schema->quoteValue('application')
+#4 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(211): yii\db\Connection->quoteValue('application')
+#5 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1126): yii\db\Command->getRawSql()
+#6 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\db\Command.php(1091): yii\db\Command->logQuery('yii\\db\\Command:...')
+#7 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\DbTarget.php(93): yii\db\Command->execute()
+#8 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Target.php(157): yii\log\DbTarget->export()
+#9 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Dispatcher.php(194): yii\log\Target->collect(Array, true)
+#10 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\log\Logger.php(226): yii\log\Dispatcher->dispatch(Array, true)
+#11 [internal function]: yii\log\Logger->flush(true)
+#12 {main}
+2022-05-31 19:51:32 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/index'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_DNT' => '1'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_SEC_FETCH_DEST' => 'manifest'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fsetup%2Fprerequisites'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '51275'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=installer%2Findex'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Findex'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654019492.3249
+    'REQUEST_TIME' => 1654019492
+]
+2022-05-31 20:00:31 [::1][-][-][error][yii\base\ErrorException:1] yii\base\ErrorException: Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2-httpclient\src\CurlTransport.php:40
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2022-05-31 19:58:22 [::1][-][-][info][application] $_GET = [
+    'r' => 'installer/config/modules'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '296'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ORIGIN' => 'http://localhost'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fconfig%2Fmodules'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=3f2rf7rclpsatcu0jb2rclrkfq; _csrf=688ff50fe146a7de2057f021daf9d7cd4272e4bee4e2012c9e60051db2e6ea2ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22EXedbZ_SLJEYMAq7Dl9LTRF-QdR2FLr3%22%3B%7D'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '61285'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'r=installer%2Fconfig%2Fmodules'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=installer%2Fconfig%2Fmodules'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654019902.9111
+    'REQUEST_TIME' => 1654019902
+]
+2022-05-31 20:21:52 [::1][-][c7dj66d6l1grb9ol29uv6oe1ar][error][Swift_TransportException] Swift_TransportException: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials y10-20020a05600015ca00b0020c5253d8d0sm12767959wry.28 - gsmtp
+" in C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php:383
+Stack trace:
+#0 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php(281): Swift_Transport_AbstractSmtpTransport->_assertResponseCode('535-5.7.8 Usern...', Array)
+#1 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\EsmtpTransport.php(270): Swift_Transport_AbstractSmtpTransport->executeCommand('RSET\r\n', Array, Array)
+#2 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\Auth\XOAuth2Authenticator.php(55): Swift_Transport_EsmtpTransport->executeCommand('RSET\r\n', Array)
+#3 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php(176): Swift_Transport_Esmtp_Auth_XOAuth2Authenticator->authenticate(Object(Swift_SmtpTransport), ' yasirdemo360@g...', 'Demo360=++')
+#4 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\EsmtpTransport.php(332): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#5 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php(118): Swift_Transport_EsmtpTransport->_doHeloCommand()
+#6 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Mailer.php(79): Swift_Transport_AbstractSmtpTransport->start()
+#7 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2-swiftmailer\Mailer.php(146): Swift_Mailer->send(Object(Swift_Message))
+#8 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\components\mail\Mailer.php(120): yii\swiftmailer\Mailer->sendMessage(Object(humhub\components\mail\Message))
+#9 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\mail\BaseMailer.php(263): humhub\components\mail\Mailer->sendMessage(Object(humhub\components\mail\Message))
+#10 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\mail\BaseMessage.php(49): yii\mail\BaseMailer->send(Object(humhub\components\mail\Message))
+#11 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\user\models\Invite.php(159): yii\mail\BaseMessage->send()
+#12 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\user\models\Invite.php(132): humhub\modules\user\models\Invite->sendInviteMail()
+#13 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\humhub\modules\user\controllers\AuthController.php(109): humhub\modules\user\models\Invite->selfInvite()
+#14 [internal function]: humhub\modules\user\controllers\AuthController->actionLogin()
+#15 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#16 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\base\Controller.php(178): yii\base\InlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\base\Module.php(552): yii\base\Controller->runAction('login', Array)
+#18 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('user/auth/login', Array)
+#19 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\protected\vendor\yiisoft\yii2\base\Application.php(384): yii\web\Application->handleRequest(Object(humhub\components\Request))
+#20 C:\xampp\htdocs\humhub-1.11.1\humhub-1.11.1\index.php(25): yii\base\Application->run()
+#21 {main}
+2022-05-31 20:21:42 [::1][-][c7dj66d6l1grb9ol29uv6oe1ar][info][application] $_GET = [
+    'r' => 'user/auth/login'
+]
+
+$_SERVER = [
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => '\\xampp\\mysql\\bin'
+    'OPENSSL_CONF' => 'C:/xampp/apache/bin/openssl.cnf'
+    'PHP_PEAR_SYSCONF_DIR' => '\\xampp\\php'
+    'PHPRC' => '\\xampp\\php'
+    'TMP' => '\\xampp\\tmp'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '176'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"101\", \"Google Chrome\";v=\"101\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Windows\"'
+    'HTTP_ORIGIN' => 'http://localhost'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost/humhub-1.11.1/humhub-1.11.1/index.php?r=user%2Fauth%2Flogin'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en;q=0.9'
+    'HTTP_COOKIE' => 'PHPSESSID=c7dj66d6l1grb9ol29uv6oe1ar; _csrf=834ebbcb265dbf69c14acccd10e9344fde51838e984035c88811190d4d5121f3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22vreXi6QxATAccqVfZ1dechRegBaMxfhN%22%3B%7D'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Azure Data Studio\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\nodejs\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Python\\Python310\\;C:\\Users\\Qasim\\.cargo\\bin;C:\\Users\\Qasim\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Qasim\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Azure Data Studio\\bin;C:\\Users\\Qasim\\AppData\\Roaming\\npm;C:\\Program Files\\heroku\\bin'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.4'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/xampp/htdocs'
+    'SERVER_ADMIN' => 'postmaster@localhost'
+    'SCRIPT_FILENAME' => 'C:/xampp/htdocs/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REMOTE_PORT' => '60602'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'r=user%2Fauth%2Flogin'
+    'REQUEST_URI' => '/humhub-1.11.1/humhub-1.11.1/index.php?r=user%2Fauth%2Flogin'
+    'SCRIPT_NAME' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'PHP_SELF' => '/humhub-1.11.1/humhub-1.11.1/index.php'
+    'REQUEST_TIME_FLOAT' => 1654021302.706
+    'REQUEST_TIME' => 1654021302
+]
